@@ -41,10 +41,13 @@ $(document).ready(function(){
             $('#feedback').show().addClass('active');
         } else {
             window.open('https://g.page/r/CR4Koahp2uHYEBM/review');
+            //Paste review link above
             window.location.href = 'https://yewdigitallock.com.sg/digital-locks/digital-door-locks/';
+            //Paste navigator link above such as website
+            //Change for specific companies
         }
     };
-});
+}); 
 
 
 
